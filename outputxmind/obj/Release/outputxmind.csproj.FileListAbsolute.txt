@@ -1,0 +1,2 @@
+E:\hackathon\outputxmind\outputxmind\obj\Release\outputxmind.csprojResolveAssemblyReference.cache
+E:\hackathon\outputxmind\outputxmind\bin\Release\outputxmind.exe.config
